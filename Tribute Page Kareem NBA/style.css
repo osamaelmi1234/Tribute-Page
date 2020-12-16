@@ -1,0 +1,103 @@
+#image {
+ 
+  height:700px;
+  width:100%;
+  display:block;
+  margin:auto;
+}
+#jumbotron{
+  width:65%;
+  margin:auto;
+  background-color:purple;
+  font-family:Sans-serif
+}
+#img-div {
+  background-color:black;
+    width:65%;
+  margin:auto;
+}
+#tribute-info{
+  width:65%;
+  margin:auto;
+ background-color:purple;
+}
+
+body{
+  text-align:center;
+  background-color: black;
+  color:white;
+}
+#title {
+  font-family: Sans-serif;
+  font-size:50px;
+}
+#img-caption{
+  font-family: Sans-serif;
+  text-align:center;
+  
+}
+p {
+  font-family:Helvetica;
+  font-size:17px;
+  text-align:left;
+}
+#tribute-link {
+  color:orange;
+  
+}
+.text-left{
+  text-align:left;
+}
+.video{
+  width:80%;
+  margin:auto;
+  
+}
+#video-cap{
+  text-align:center;
+}
+#quote{
+  text-align:center;
+}
+
+#grantquote {
+  font-size:25px;
+  color:orange;
+}
+#grant {
+  font-size:23px;
+  color:white;
+  
+}
+#personal{
+  width:65%;
+  margin:auto;
+  background-color:purple;
+}
+#books {
+  margin:auto;
+    width:65%;
+  text-align:center;
+}
+#kareemquote {
+  color:orange;
+  font-size:25px;
+}
+#kareem{
+  font-size:23px;
+  color:white;
+}
+#qsection {
+  background-color:purple;
+  width:65%;
+  margin:auto;
+}
+#wiki {
+  font-size:20px;
+  margin:auto;
+  width:65%;
+  text-align:center;
+}
+#linktwo {
+  color:orange;
+}
